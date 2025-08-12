@@ -1,8 +1,0 @@
-C:\Users\admin\source\repos\HostShieldC#\HostShieldC#\bin\Release\HostShield.exe.config
-C:\Users\admin\source\repos\HostShieldC#\HostShieldC#\bin\Release\HostShield.exe
-C:\Users\admin\source\repos\HostShieldC#\HostShieldC#\bin\Release\HostShield.pdb
-C:\Users\admin\source\repos\HostShieldC#\HostShieldC#\obj\Release\HostShield.csproj.AssemblyReference.cache
-C:\Users\admin\source\repos\HostShieldC#\HostShieldC#\obj\Release\HostShield.csproj.CoreCompileInputs.cache
-C:\Users\admin\source\repos\HostShieldC#\HostShieldC#\obj\Release\HostShield.exe
-C:\Users\admin\source\repos\HostShieldC#\HostShieldC#\obj\Release\HostShield.pdb
-C:\Users\admin\source\repos\HostShieldC#\HostShieldC#\obj\Release\HostShield.exe.config
